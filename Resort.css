@@ -1,0 +1,9 @@
+main{background-repeat: no-repeat;
+        background-size: cover;
+        height:500px;}
+main h1{text-align: center; color: white;}
+main h2{text-align: center; color: white;}
+img{width:350px;
+    height:250px;}
+
+main{background-image: url("Picture/Background-Resort.webp");}

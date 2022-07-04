@@ -1,0 +1,7 @@
+.FoodNBeverages{position: relative;text-align: center;}  
+img{display: block;margin-left: auto;margin-right: auto;}
+main{position: relative; text-align:center; font-style: italic;}
+.Restaurant{text-align: center; list-style:square ;}
+.FNB{ position: relative;left: 250px; display: inline-block;}
+.Cafe{flex: 33.33%; padding: 5px; display:inline-flex;}
+footer{ text-align:  center;}

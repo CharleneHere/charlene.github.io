@@ -1,0 +1,51 @@
+.HeaderGolf{
+    text-align:center;
+    width: 70%;
+    height: 700px;
+}
+
+.title{
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 20px;
+    padding-right: 25%;
+    padding-left: 25%;
+    padding-bottom: 20px;
+}
+
+.Header{
+    text-align: center;
+}
+
+.content1{
+    text-align: center;
+
+}
+
+.Golf1{
+    height:500px;
+    width: 40%;   
+}
+
+.Golf2{
+    height:500px;
+    width: 40%;   
+}
+
+p{
+    margin: 2%;
+}
+
+.Golf3{
+    width: 80%;
+    height:800px;
+}
+
+.content2{
+    text-align:center;
+}
+
+.Overview{
+    text-decoration: underline;
+    padding-bottom: 20px;
+}
